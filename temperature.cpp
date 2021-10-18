@@ -30,9 +30,6 @@ void CalculateFahrenheit() {
         std::cout << "Invalid input"  << std::endl;
         std::cout << std::endl;
     }
-
-    // output
-    std::cout << "Done." << std::endl;
 }
 
 main() {
@@ -40,4 +37,7 @@ main() {
 
     // call functions
     CalculateFahrenheit();
+    
+     // output
+    std::cout << "Done." << std::endl;
 }
