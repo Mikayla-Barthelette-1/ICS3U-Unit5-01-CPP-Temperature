@@ -37,7 +37,7 @@ main() {
 
     // call functions
     CalculateFahrenheit();
-    
+
      // output
     std::cout << "Done." << std::endl;
 }
